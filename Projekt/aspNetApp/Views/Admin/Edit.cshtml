@@ -1,0 +1,36 @@
+﻿@model Product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+    <form asp-action="Save" method="post">
+        <input type="hidden" asp-for="ProductID" />
+        <div>
+            <label asp-for="Name">Produkt</label>
+            <div><span asp-validation-for="Name"></span></div>
+            <input asp-for="Name" />
+        </div>
+        <div>
+            <label asp-for="Description">opis</label>
+            <div><span asp-validation-for="Description"></span></div>
+            <input asp-for="Description" />
+        </div>
+        <div>
+            <label asp-for="Category">Kategoria</label>
+            <div><span asp-validation-for="Category"></span></div>
+            <input asp-for="Category" />
+        </div>
+        <div>
+            <label asp-for="Price">
+                @Html.LabelFor(x => x.Price)
+            </label>
+            <div><span asp-validation-for="Price"></span></div>
+            <input asp-for="Price" />
+        </div>
+        <div>
+            <button type="submit" >Zapisz</button>
+            <a asp-action="Index">Anuluj</a>
+        </div>
+
+    </form>

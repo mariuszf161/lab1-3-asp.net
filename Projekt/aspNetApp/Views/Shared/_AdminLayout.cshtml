@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" asp-href-include="~/lib/bootstrap/css/*.css"/>
+    <title>@ViewBag.Title</title>
+    <style>
+        .input-validation-error{
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h4>@ViewBag.Title</h4>
+    </div>
+    @if (TempData["message"] != null)
+    {
+        <div>@TempData["message"]</div>
+    }
+        @RenderBody()
+    
+</body>
+</html>
