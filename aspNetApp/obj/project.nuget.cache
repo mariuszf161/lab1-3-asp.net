@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68EzVD3XLeaD8sRZV4B1v2XnEHzLO9nu3t7ogb2mpAkzOWSSslNfOuQRllY577qiaoQB19wXnmQSgPtM7JWJuQ==",
+  "dgSpecHash": "mej3ZB2aNVL0zoCBly6UzA7eP8Q1gRf05sRJn5raqqzyDT3yEGH9viluBUdlX8p17wqPTFiufWZjAVQGqW83DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\aspNetApp.csproj",
+  "projectFilePath": "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\aspNetApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mariu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

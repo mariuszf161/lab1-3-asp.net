@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\aspNetApp.csproj": {}
+    "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\aspNetApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\aspNetApp.csproj": {
+    "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\aspNetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\aspNetApp.csproj",
+        "projectUniqueName": "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\aspNetApp.csproj",
         "projectName": "aspNetApp",
-        "projectPath": "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\aspNetApp.csproj",
+        "projectPath": "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\aspNetApp.csproj",
         "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mariu\\Desktop\\lab1-3-asp.net\\Projekt\\aspNetApp\\obj\\",
+        "outputPath": "C:\\Users\\mariu\\Desktop\\aspNetApp\\aspNetApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\"
